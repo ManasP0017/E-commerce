@@ -2,8 +2,6 @@
 
 ![Demo App](/frontend/public/screenshot-for-readme.png)
 
-[🎥 Watch the Full Video Tutorial on YouTube](https://youtu.be/sX57TLIPNx8)
-
 ---
 
 ## 👨‍💻 Created by: Manas Pant (22BBS0135)
