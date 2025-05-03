@@ -1,9 +1,3 @@
-<h1 align="center">E-Commerce Store 🛒</h1>
-
-![Demo App](/frontend/public/screenshot-for-readme.png)
-
----
-
 ## 👨‍💻 Created by: Manas Pant (22BBS0135)
 
 This is a full-stack E-Commerce web application built as part of my learning and exploration of modern web development technologies. The project integrates secure authentication, payment processing, caching, and an intuitive admin dashboard.
